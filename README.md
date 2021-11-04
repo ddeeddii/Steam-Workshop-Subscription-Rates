@@ -4,7 +4,7 @@ This is a simple extension that displays a subscription rate and a favorite rate
 # How it works
 Due to limitations, the way the extension calculates the subscription rate is: 
 
-`Current subscriptions / Unuque visitors`
+`Current subscriptions / Unique visitors`
 
 
 # Installation
