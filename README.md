@@ -3,6 +3,7 @@ This is a simple extension that displays a subscription rate and a favorite rate
 
 # How it works
 Due to limitations, the way the extension calculates the subscription rate is: 
+
 `Current subscriptions / Unuque visitors`
 
 
@@ -13,4 +14,5 @@ Due to limitations, the way the extension calculates the subscription rate is:
 3. Click on `Load Unpacked` and select the extracted folder or drag and drop the folder to the extension page
 
 **For Firefox**
+
 Currently not available.
