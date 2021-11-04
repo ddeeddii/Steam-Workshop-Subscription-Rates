@@ -3,7 +3,7 @@
     "version": "1.0",
     "manifest_version": 2,
     "description": "Adds a subscription and a favourite rate to any mod on Steam Workshop",
-    "homepage_url": "https://github.com/ddeeddii",
+    "homepage_url": "https://github.com/ddeeddii/Steam-Workshop-Subscription-Rates",
     "content_scripts": [{
         "matches": ["https://steamcommunity.com/sharedfiles/filedetails/?id=*"],
         "js": ["script.js"]
