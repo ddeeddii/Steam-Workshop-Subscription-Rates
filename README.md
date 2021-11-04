@@ -1,5 +1,5 @@
 # Description
-This is a simple extension that displays a subscription rate and a favorite rate on a mod's page alongside unique visitos, current subscriptions and current favorites.
+This is a simple extension that displays a subscription rate and a favorite rate on a mod's page alongside unique visitors, current subscriptions and current favorites.
 
 # How it works
 Due to limitations, the way the extension calculates the subscription rate is: 
