@@ -13,6 +13,7 @@ Due to limitations, the way the extension calculates the subscription rate is:
 2. Go to [chrome://extensions](chrome://extensions) and enable developer mode
 3. Click on `Load Unpacked` and select the extracted folder or drag and drop the folder to the extension page
 
-**For Firefox**
-
-Currently not available.
+**For any browser supporting userscripts**
+1. Download a userscript manager such as [https://greasyfork.org/](Greasy Fork) or [https://violentmonkey.github.io/](Violentmonkey)
+2. Go [https://greasyfork.org/en/scripts/435323-steam-workshop-subscription-rates](here)
+3. Press "Install this script"
