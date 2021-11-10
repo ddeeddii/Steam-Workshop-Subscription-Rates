@@ -14,6 +14,6 @@ Due to limitations, the way the extension calculates the subscription rate is:
 3. Click on `Load Unpacked` and select the extracted folder or drag and drop the folder to the extension page
 
 **For any browser supporting userscripts**
-1. Download a userscript manager such as [https://greasyfork.org/](Greasy Fork) or [https://violentmonkey.github.io/](Violentmonkey)
-2. Go [https://greasyfork.org/en/scripts/435323-steam-workshop-subscription-rates](here)
+1. Download a userscript manager such as [Greasy Fork](https://greasyfork.org) or [Violentmonkey](https://violentmonkey.github.io)
+2. Go [to the script's site](https://greasyfork.org/en/scripts/435323-steam-workshop-subscription-rates)
 3. Press "Install this script"
